@@ -2,27 +2,27 @@
 
 PART 1:
 1. feminine, accusative, singular
-2. neuter, accusative, singular ❌ *Translate prepositional phrases*
-3. masculine, ablative, singular ❌
+2. neuter, accusative, singular, into marriage. ❌ *Translate prepositional phrases*
+3. masculine, dative, singular ❌
 4. feminine, ablative, singular
-5. neuter, nominative, plural ❌
-6. feminine accusative singular ❌ *Translate prepositional phrases*
+5. masculine, accusative, plural ❌
+6. feminine accusative singular, to his wife.  ❌ *Translate prepositional phrases*
 
 PART 2 ❌ *if the form is finite (not an infinitive) and singular, convert to plural; if the form is finite and plural, convert to singular.*
 
-1. third person, singular, pluperfect, active, subjunctive
-2. third person, singular, perfect, active, indicative
+1. third person, singular, pluperfect, active, subjunctive, Petivissent
+2. third person, singular, perfect, active, indicative, Necaverunt 
 3. first person, plural, present, passive, infinitive
-4. third person, singular, imperfect, passive, subjunctive
-5. third person, singular, perfect, active, indicative 
-6. third person, singular, pluperfect, active, subjunctive
-7. third person, singular, perfect, active, indicative
+4. third person, singular, imperfect, passive, subjunctive, Rogarentur
+5. third person, singular, perfect, active, indicative, Coepiunt
+6. third person, singular, pluperfect, active, subjunctive, interfecissent
+7. third person, singular, perfect, active, indicative, miserunt
 
 PART 3
-1. Quae Occidi ❌
-2. Cum Occidi ❌
-3. Caesi ❌
+1. Occiduntur ❌
+2. Occidebantur ❌
+3. Occisi sunt ❌
 4. Occisus est 
 5. vidit
-6. Duciter ❌
-7. interrogavit ❌
+6. Duxit ❌
+7. Rogabat ❌
