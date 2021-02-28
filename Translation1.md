@@ -1,31 +1,29 @@
 **Please include *questions* as well as answers.**
 **Needs revisions**
 
-Part A ❌
+Part A 
 
 
 Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. quia pater eius centaurum timebat, pollicitus est se daturum.
 
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
-Hercules was given hospitality by King Dexamenus, because he wanted to marry his daugter Deinira. ❌
+when Hercules was hosted by king Dexamenus, he deflowered his daughter Deianira and wanted her as his wife. 
 
 When Hercules left, Eurytion the centaur asks Deinanira to be his wife. 
 
-he was afraid because his father was a centaur, so he promised to give❌
+because the centaur feared her father, he promised a gift. 
 
-In time, the centaur came to the wedding to feast with his brethren.❌  
+when it was time, the centaurs gathered at their brothers wedding
 
-*interfecit?* ❌
-
-Hercules killed the centaur and abducted Deianira. 
+Hercules intervened and killed the centaur, taking away Deianira
 
 
 Part B.
 
-1. Dexamenum, Dexamenus, Dexamenus, m. genitive ❌
-2. Deianiram, Deianira, Deianiras, f. Genitive ❌
-3. Genitive, it refers to Hercules being away from his wife ❌
-4. Nominative, refers to when Hercules arrived  ❌
-5. Dative, refers to when the promise was made ❌
-6. at that time, places a date on when the event happened ❌
+1. Dexamenus, Dexameni, m. accusative
+2. Deianira, Deianirae, f. accusative 
+3. Imperfect, Indicative, Active. The word explains that Hercules left in the past, and the action happened after he left. 
+4. Pluperfect, subjunctive, active. This was in the past and was indirect. 
+5. Perfect, indicative, passive. the promise happened in the past and was given to someone by the subject. 
+6. Ablative. It describes what took place at a fixed time in the past. 
