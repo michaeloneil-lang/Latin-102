@@ -1,3 +1,7 @@
+**Needs revisions**
+**Please include questions in your quizzes.  This will make it easier for you to review (and easier for me to mark).**
+
+Part 1 ❌
 
 Part 2
 Pollicentur
@@ -10,18 +14,18 @@ pollicitum esse
 polliciti essent
 
 Part 3
-The brothers, who came to the wedding with Eurytion, were violent centaurs. 
+The brothers, who came to the wedding with Eurytion, were violent centaurs. ❌
 Dexamenus was afraid of Eurytion, to whom Deianira was promised in marriage
-Eurytion, whos brothers were centaurs, expected to marry Deianira.
-when Nessus tried to rape Deianira, he was killed by Hercules.
-Nessus gave Deianira a vial of blood, which poisoned Hercules
+Eurytion, whose brothers were centaurs, expected to marry Deianira.
+when Nessus tried to rape Deianira, he was killed by Hercules.❌
+Nessus gave Deianira a vial of blood, which poisoned Hercules❌
 In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners
 Prometheus' heart was devoured by an eagle, which Hercules shot dead with his arrows
-Lycus, who tried to kill Megara and her sons Therimachus and Ophites, was himself killed by Hercules.
-Hercules stole a tripod from the temple at Delphi, because Apollo refused to give him an oracle.
-Hercules killed his own wife Megara, when Juno drove him into a fit of madness.
+Lycus, who tried to kill Megara and her sons Therimachus and Ophites, was himself killed by Hercules.❌
+Hercules stole a tripod from the temple at Delphi, because Apollo refused to give him an oracle.❌
+Hercules killed his own wife Megara, when Juno drove him into a fit of madness.❌
 
-part 4
+part 4❌ **Revisit after revising translation.**
 quos, erant (masc., plural), Accusative because it describes the brothers. 
 qua, cum (fem. singular). Ablative because it refers to the connection between the two
 quorum, fratres (masculine, plural). Genitive because it refers to the relation
