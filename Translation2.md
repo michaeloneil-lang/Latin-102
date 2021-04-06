@@ -8,15 +8,15 @@ Deianira,
       for help.
 He *wished* to *take away* Deianira in the river 
   and *rape* her  
-When Hercules came hither to intervene
-  and Deianira begged him with tears for protection
-    Nessus was pierced with his arrow
+When Hercules *came hither* to *intervene*
+  and Deianira *begged him with tears* for protection
+    Nessus was *pierced* with his arrow
 that man, 
-  as he was dying, 
-dipped the arrow in his only property, 
+  as he *was dying*, 
+*dipped* the arrow in his only property, 
     the blood of the Lerneaen Hydra, 
 with great force,
-      and offered it to Deianira as a love potion. 
+      and *offered* it to Deianira as a love potion. 
 
 Questions:
 1. nomen; masculine singular. It is accusative because it describes the direct object of the sentence. 
