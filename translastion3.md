@@ -1,10 +1,14 @@
 A.
-King Augeas had to cleanse the manure in his stall,
->one day,
->> After the river had been let in, he washed away all of the dung in a single day. 
+One day, He had to cleanse the manure in King Augaes' stall,
+>After the river had been let in,
+>he cleansed the stable of dung, 
+>>with Jupiter as his helper,
+>in a single day. 
  
-The Bull that Pasiphae lay with was lead from the Island of Crete
->where Mycenis lived.
+He led the Bull
+>that Pasiphae lay with,
+from the Island of Crete
+>>where Mycenis lived.
 
 Diomedes king of Thrace and his four horses, who fed on human flesh
 >killed a servant of Abdera;
