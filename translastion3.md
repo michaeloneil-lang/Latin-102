@@ -1,10 +1,11 @@
 A.
 King Augeas had to cleanse the manure in his stall,
 >one day,
->> his ancestor Jupiter let the river in to wash away the manure. 
-Bull when that Pasiphae lie down from Crete island Mycenis lived lead. 
+>> After the river had been let in, he washed away all of the dung in a single day. 
+ 
 The Bull that Pasiphae lay with was lead from the Island of Crete
 >where Mycenis lived.
+
 Diomedes king of Thrace and his four horses, who fed on human flesh
 >killed a servant of Abdera;
 >>The horses names were Podargus Lampon Xanthus and Dinus
