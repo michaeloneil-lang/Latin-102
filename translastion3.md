@@ -17,12 +17,12 @@ Diomedes king of Thrace and his four horses, who fed on human flesh
 >>The horses names were Podargus Lampon Xanthus and Dinus
 
 B.
-1. Jove is accusative, The construction is two nouns. ❌
-2. Stercus is Nominative because it is the subject of the sentence ❌ **It's not the subject in your translation. Who did the cleaning?**
+1. Jove is accusative, The construction is a dependant clause
+2. Stercus is nominative because it is the thing that hercules, the subject of the sentence, has to clean
 3. 3rd declension masculine singular accusative
 4. The verbal unit is a simple sentence with a noun and a verb
-5. Nominative masculine plural. antecedent is Carne ❌
+5. Nominative masculine plural. antecedent is Diomedem.
 6. sum, es, esse
 
-C.❌
+C. Hyginus chooses to put *stercus* before *bobile* despite the dung being in the stable and not belonging to King Augaeus. In the second sentence, *taurum* is the first word, despite not being the subject of the sentence. Hyginus most likely did this to emphasize the bull's importance in the sentence. 
 
